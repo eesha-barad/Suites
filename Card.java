@@ -10,3 +10,12 @@ public class Card {
         this.rank = rank;
         this.suit = suit;
     }
+
+    // Getters
+    public String getRank() {
+        return rank;
+    }
+
+    public String getSuit() {
+        return suit;
+    }
