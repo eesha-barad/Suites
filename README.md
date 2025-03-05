@@ -14,10 +14,12 @@ Suites is a command-line Java application that simulates a deck of playing cards
 - **Interactive Menu:** User-friendly menu for navigating the various card operations.
 
 ## Project Structure
+```sh
 Suites/ 
 ├── Main.java 
 ├── Card.java 
 └── Deck.java
+```
 
 - **Main.java:** Contains the main method which drives the application and handles user input via a menu.
 - **Card.java:** Defines the `Card` class, representing a playing card with properties for rank and suit, and includes methods for comparing cards.
