@@ -51,11 +51,11 @@ Suites/
    ```
 ### Usage
 
-**Print Deck:** Displays all the cards in the deck.
-**Print Specific Card:** Enter the index of the card to view its details.
-**Check Same Suit:** Provide the indices of two cards to verify if they share the same suit.
-**Compare Card Rank:** Compare the ranks of two cards by entering their indices.
-**Find a Card:** Input a card's rank and suit to search for it within the deck.
-**Deal 5 Cards:** The application shuffles the deck and deals 5 random cards.
-**Shuffle Deck:** Randomizes the order of the deck.
-**Exit:** Terminates the application.
+- **Print Deck:** Displays all the cards in the deck.
+- **Print Specific Card:** Enter the index of the card to view its details.
+- **Check Same Suit:** Provide the indices of two cards to verify if they share the same suit.
+- **Compare Card Rank:** Compare the ranks of two cards by entering their indices.
+- **Find a Card:** Input a card's rank and suit to search for it within the deck.
+- **Deal 5 Cards:** The application shuffles the deck and deals 5 random cards.
+- **Shuffle Deck:** Randomizes the order of the deck.
+- **Exit:** Terminates the application.
