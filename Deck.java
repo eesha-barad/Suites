@@ -29,3 +29,12 @@ public class Deck {
             System.out.println(card);
         }
     }
+
+    // Print a specific card
+    public void printCard(int index) {
+        if (index >= 0 && index < deck.size()) {
+            System.out.println(deck.get(index));
+        } else {
+            System.out.println("Invalid index! Card does not exist.");
+        }
+    }
